@@ -1,3 +1,5 @@
+
+<!--
 <div align=center><h1>DevOps Engineer</h1></div>
 <br>
 
@@ -10,7 +12,6 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <br>
 
-<!--
 **gminnimk/gminnimk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
