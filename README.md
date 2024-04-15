@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning ...
+<div align=center><h1> 🌱 I’m currently learning </h1></div>
 
 <div align=center><h1>📚 Develop Stack 📚</h1></div>
 
