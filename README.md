@@ -1,4 +1,6 @@
+- 🌱 I’m currently learning ...
 
+  
 <!--
 <div align=center><h1>DevOps Engineer</h1></div>
 <br>
