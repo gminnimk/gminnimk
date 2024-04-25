@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gminnimk/gminnimk/assets/165118770/2ce004c1-497c-4dd6-a033-c7648d9853ae
+  <img src="[https://github.com/gminnimk/gminnimk/assets/165118770/2ce004c1-497c-4dd6-a033-c7648d9853ae](https://github.com/gminnimk/gminnimk/assets/165118770/2ce004c1-497c-4dd6-a033-c7648d9853ae)
 ">
 </p>
 
