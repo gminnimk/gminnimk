@@ -1,4 +1,4 @@
-## Hi there 👋
+![KakaoTalk_20240424_204151135](https://github.com/user-attachments/assets/a52dbbb0-4dfa-4fbf-8157-8d9cc18a45a3)
 
 <!--
 **gminnimk/gminnimk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
