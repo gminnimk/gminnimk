@@ -40,8 +40,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=gminnimk&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gminnimk&layout=compact&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff" width = 35%
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=gminnimk&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gminnimk&layout=compact&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff" width = 35%
            /> <a href="https://github.com/gminnimk/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gminnimk&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80%/>
 </a>
@@ -50,8 +49,4 @@
     
    <br>
  <div align= "center"> 
-
- 
-     
-![KakaoTalk_20240424_204151135](https://github.com/user-attachments/assets/a52dbbb0-4dfa-4fbf-8157-8d9cc18a45a3)
 </div>
