@@ -5,6 +5,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요🙇‍♂️ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 백엔드 개발자의 목표를 갖고 공부하고 있는 소프트웨어학과 학생입니다.  </div> 
     </div>
+    <br>
+    <div align= "center"> 
+        <img src="https://github.com/user-attachments/assets/51d4322b-d9af-4878-b1ce-b21f8d5fb204" width= 25%>
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
@@ -37,10 +41,17 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=gminnimk&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gminnimk&layout=compact&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gminnimk&layout=compact&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff" width = 35%
+           /> <a href="https://github.com/gminnimk/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gminnimk&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80%/>
+</a>
+</div> 
     </div>
-
-
-![KakaoTalk_20240424_204151135](https://github.com/user-attachments/assets/a52dbbb0-4dfa-4fbf-8157-8d9cc18a45a3)
     
+   <br>
+ <div align= "center"> 
+
+ 
+     
+![KakaoTalk_20240424_204151135](https://github.com/user-attachments/assets/a52dbbb0-4dfa-4fbf-8157-8d9cc18a45a3)
+</div>
