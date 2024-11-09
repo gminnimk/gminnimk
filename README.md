@@ -1,5 +1,3 @@
-![KakaoTalk_20240424_204151135](https://github.com/user-attachments/assets/a52dbbb0-4dfa-4fbf-8157-8d9cc18a45a3)
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5945bf,100:160665&height=180&text=Kyung%20Min's%20Git%20hub&animation=&fontColor=ffffff&fontSize=40" />
     </div>
@@ -42,4 +40,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gminnimk&layout=compact&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+
+
+![KakaoTalk_20240424_204151135](https://github.com/user-attachments/assets/a52dbbb0-4dfa-4fbf-8157-8d9cc18a45a3)
     
