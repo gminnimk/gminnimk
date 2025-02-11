@@ -21,39 +21,39 @@
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="65" alt="Java" />
-      <br>Java
+      <br><b>Java</b>
     </td>
     <td align="center" width="96">
         <img src="https://github.com/user-attachments/assets/caee4d20-8969-4d4c-a581-c9cc5204fdda" width="65" height="65" />
-      <br>SpringBoot
+      <br><b>SpringBoot</b>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+      <br><b>MySQL</b>
     </td>
   </tr>
   <tr>
        <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="49" height="65" alt="HTML" />
-      <br>HTML 
+      <br><b>HTML</b> 
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <br><b>JS</b>
     </td>
     <td align="center" width="93">
         <img src="https://skillicons.dev/icons?i=css" width="49" height="65" alt="CSS" />
-      <br>CSS
+      <br><b>CSS</b>
     </td>
   </tr>
    <tr>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Postman" />
-      <br>AWS
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+      <br><b>AWS</b>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+      <br><b>Github</b>
     </td>
   </tr>
  <tr>
