@@ -4,7 +4,7 @@
     <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-<!--     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <br/>
@@ -15,8 +15,10 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           </div>
-    </div> -->
-<div style="overflow-x: auto; white-space: nowrap;">
+    </div>
+
+<!--
+    <div style="overflow-x: auto; white-space: nowrap;">
     <table>
         <tr>
             <td align="center" width="96">
@@ -57,12 +59,15 @@
             </td>
         </tr>
     </table>
-</div><br>
+</div>
+--!>
+<br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@gminnimk/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@gminnimk/posts"> </a>
          <a href=mailto:tvt1245@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:tvt1245@gmail.com"> </a>
-          </div>  <br> 
+          </div>  
+          <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
@@ -76,3 +81,6 @@
    <br>
  <div align= "center"> 
 </div>
+
+
+
