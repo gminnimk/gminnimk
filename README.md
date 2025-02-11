@@ -16,50 +16,48 @@
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           </div>
     </div> -->
-    <div align= "center">
+<div style="overflow-x: auto; white-space: nowrap;">
     <table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="65" alt="Java" />
-      <br><b>Java</b>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/caee4d20-8969-4d4c-a581-c9cc5204fdda" width="65" height="65" />
-      <br><b>SpringBoot</b>
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br><b>MySQL</b>
-    </td>
-  </tr>
-  <tr>
-       <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="49" height="65" alt="HTML" />
-      <br><b>HTML</b> 
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br><b>JS</b>
-    </td>
-    <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=css" width="49" height="65" alt="CSS" />
-      <br><b>CSS</b>
-    </td>
-  </tr>
-   <tr>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
-      <br><b>AWS</b>
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br><b>Github</b>
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
-    </div>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="65" alt="Java" />
+                <br><b>Java</b>
+            </td>
+            <td align="center" width="96">
+                <img src="https://github.com/user-attachments/assets/caee4d20-8969-4d4c-a581-c9cc5204fdda" width="65" height="65" />
+                <br><b>SpringBoot</b>
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+                <br><b>MySQL</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=html" width="49" height="65" alt="HTML" />
+                <br><b>HTML</b> 
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+                <br><b>JS</b>
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=css" width="49" height="65" alt="CSS" />
+                <br><b>CSS</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+                <br><b>AWS</b>
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+                <br><b>Github</b>
+            </td>
+        </tr>
+    </table>
+</div><br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@gminnimk/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@gminnimk/posts"> </a>
