@@ -24,8 +24,8 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+        <img src="https://github.com/user-attachments/assets/caee4d20-8969-4d4c-a581-c9cc5204fdda" width="65" height="65" />
+      <br>SpringBoot
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
