@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5945bf,100:160665&height=180&text=Kyung%20Min's%20Git%20hub&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5945bf,100:160665&height=180&text=KIM%20KYUNG%20MIN&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <br>
     <div align= "center">
