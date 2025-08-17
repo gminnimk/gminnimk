@@ -1,9 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5945bf,100:160665&height=180&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <br>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h1> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -24,8 +23,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=gminnimk&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gminnimk&layout=compact&bg_color=180,43459d,00000000&title_color=ffffff&text_color=ffffff" width = 35%
-           /> <a href="https://github.com/gminnimk/github-readme-activity-graph">
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h1> <div align= "center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gminnimk&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80%/>
 </a>
 </div> 
