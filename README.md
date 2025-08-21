@@ -23,7 +23,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h1> <div align= "center">
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Graph </h1> <div align= "center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gminnimk&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80%/>
 </a>
 </div> 
